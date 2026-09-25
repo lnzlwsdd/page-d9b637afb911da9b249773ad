@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.xn--ehqa22b.org/sitemap.xml
